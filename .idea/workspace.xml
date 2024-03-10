@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cef04ef-ca09-401e-a490-37a1d3d44dd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Om.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/best.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTest/TestRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/suite/TestNg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/suite/error.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tesng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +62,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -189,6 +175,22 @@
       <option name="presentableId" value="Default" />
       <updated>1706852656669</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1710054558198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054558198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
