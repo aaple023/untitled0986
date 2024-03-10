@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cef04ef-ca09-401e-a490-37a1d3d44dd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Om.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/best.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTest/TestRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/suite/TestNg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/suite/error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tesng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="openjdk-21 (3)" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bnZ9YNYV4PjdjQekLOiRmlhtML" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.day.executor": "Run",
+    "JUnit.day.lunch.executor": "Run",
+    "JUnit.day.run.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.untitled0986 [clean].executor": "Run",
+    "Maven.untitled0986 [compile].executor": "Run",
+    "Maven.untitled0986 [install].executor": "Run",
+    "Maven.untitled0986 [org.apache.maven.plugins:maven-install-plugin:3.1.1:install-file].executor": "Run",
+    "Maven.untitled0986 [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor": "Run",
+    "Maven.untitled0986 [org.apache.maven.plugins:maven-resources-plugin:3.3.1:copy-resources].executor": "Run",
+    "Maven.untitled0986 [test].executor": "Run",
+    "Maven.untitled0986 [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG./home/amit/IdeaProjects/demo0/untitled0986/src/test/TestNg.xml.executor": "Run",
+    "TestNG./home/amit/IdeaProjects/demo0/untitled0986/src/test/java/suite/error.xml.executor": "Run",
+    "TestNG.TestRun.executor": "Run",
+    "TestNG.best.executor": "Run",
+    "TestNG.best.lung.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/amit/IdeaProjects/demo0/untitled0986/src/test/java/suite",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/suite" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Run" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.best">
+    <configuration name="day" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled0986" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="day" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day.lunch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled0986" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="day" />
+      <option name="METHOD_NAME" value="lunch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled0986" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTest" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest.TestRun" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="best" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled0986" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.best" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="best.lung" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled0986" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.best" />
+      <option name="METHOD_NAME" value="lung" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.best" />
+        <item itemvalue="TestNG.best.lung" />
+        <item itemvalue="JUnit.day" />
+        <item itemvalue="TestNG.TestRun" />
+        <item itemvalue="JUnit.day.lunch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-76dd8dae" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cef04ef-ca09-401e-a490-37a1d3d44dd4" name="Changes" comment="" />
+      <created>1706852656669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706852656669</updated>
+    </task>
+    <servers />
+  </component>
+</project>
